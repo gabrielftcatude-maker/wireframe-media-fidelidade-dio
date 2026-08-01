@@ -30,7 +30,7 @@ Criar um wireframe de média fidelidade contendo:
 
 ## 🖼 Wireframe
 
-*A imagem será adicionada após o upload.*
+![Wireframe de Média Fidelidade](wireframe-media-fidelidade-dio.png)
 
 ---
 
